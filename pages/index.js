@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Esta es una página de prueba para generar un CSR con SSL.com
         </p>
       </main>
 
